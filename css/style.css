@@ -109,7 +109,7 @@ header nav .menu_link:hover {
   display: -ms-flexbox;
   display: flex;
   max-width: 1500px;
-  background-image: url("img/Group 1.png");
+  background-image: url("/img/Group 1.png");
   background-repeat: no-repeat;
   background-position: center;
   height: 1219px;
